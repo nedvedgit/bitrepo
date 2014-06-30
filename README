@@ -1,8 +1,13 @@
-jak uruchomic gdb
+######jak uruchomic gdb######
 cc -g -std=c99 file1.c file2.c 
 
 gdb:
 gdb a.out
 break filename:line_number
 run c|n|s
+
+######generating rsa key######
+ssh-keygen -t rsa -C "your_email@example.com"
+
+And there is a key in the file ~/.ssh/id_rsa.pub, which has to add in git repo
 
