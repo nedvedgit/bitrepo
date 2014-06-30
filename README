@@ -1,0 +1,8 @@
+jak uruchomic gdb
+cc -g -std=c99 file1.c file2.c 
+
+gdb:
+gdb a.out
+break filename:line_number
+run c|n|s
+
