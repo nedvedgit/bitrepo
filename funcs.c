@@ -16,3 +16,13 @@ char * xorOperation(char *cc1, char *cc2) {
 
 	return result;
 }
+
+// AND
+char * andOperation(char *cc1, char *cc2) {
+	return '';
+}
+
+// OR
+char * orOperation(char *cc1, char *cc2) {
+	return '';
+}
