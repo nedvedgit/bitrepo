@@ -12,3 +12,4 @@ ssh-keygen -t rsa -C "nedve...@github.com"
 And there is a key in the file ~/.ssh/id_rsa.pub, which has to add in git repo
 So you generate key on machine and then add to github
 
+test from another branch
