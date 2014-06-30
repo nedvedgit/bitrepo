@@ -10,4 +10,4 @@ run c|n|s
 ssh-keygen -t rsa -C "your_email@example.com"
 
 And there is a key in the file ~/.ssh/id_rsa.pub, which has to add in git repo
-test 1
+
